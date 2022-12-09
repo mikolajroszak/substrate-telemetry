@@ -15,7 +15,7 @@
     "@types/express": "^4.16.0",
     "@types/node": "^10.3.3",
     "@types/ws": "^5.1.2",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "iplocation": "^6.1.0",
     "typescript": "^2.9.2",
     "ws": "6.1.2"
